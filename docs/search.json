@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "cristian_presentation.html#quarto",
+    "href": "cristian_presentation.html#quarto",
+    "title": "titulo1",
+    "section": "Quarto",
+    "text": "Quarto\nMenudo mojon\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see 6 https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "cristian_presentation.html#library",
+    "href": "cristian_presentation.html#library",
+    "title": "titulo1",
+    "section": "Library",
+    "text": "Library\n\n\n[[1]]\n[1] TRUE\n\n[[2]]\n[1] FALSE"
+  },
+  {
+    "objectID": "cristian_presentation.html#plots",
+    "href": "cristian_presentation.html#plots",
+    "title": "titulo1",
+    "section": "Plots",
+    "text": "Plots"
+  },
+  {
+    "objectID": "cristian_presentation.html#bullets",
+    "href": "cristian_presentation.html#bullets",
+    "title": "titulo1",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+  },
+  {
+    "objectID": "cristian_presentation.html#code",
+    "href": "cristian_presentation.html#code",
+    "title": "titulo1",
+    "section": "Code",
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
+  }
+]
